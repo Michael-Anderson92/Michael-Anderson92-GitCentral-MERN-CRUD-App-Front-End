@@ -27,3 +27,7 @@ nav ul li a {
     transition: 0.3s ease;
     border-radius: 5px;
   }
+
+  nav ul li a:hover {
+    background-color: #ff0000;
+  }
