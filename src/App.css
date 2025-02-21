@@ -1,15 +1,1 @@
-.app-container {
-  background-color: #0d1b2a;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: white;
-  font-family: "Arial", sans-serif;
-}
 
-.content-wrapper {
-  width: 80%;
-  max-width: 1200px;
-  margin-top: 20px;
-}
