@@ -4,6 +4,8 @@ import { Link } from "react-router";
 
 import { UserContext } from "../../contexts/UserContext";
 
+import "./NavBar.css";
+
 
 const NavBar = () => {
     // Pass the UserContext object to the useContext hook to access:
@@ -15,7 +17,7 @@ const NavBar = () => {
   const { user, setUser } = useContext(UserContext)
 
   function handleSignOut(){
-    // destroy the token! 
+    // destroy the token!
     localStorage.removeItem('token')
     // clearing out our state
     setUser(null)
@@ -43,4 +45,3 @@ const NavBar = () => {
 };
 
 export default NavBar;
-

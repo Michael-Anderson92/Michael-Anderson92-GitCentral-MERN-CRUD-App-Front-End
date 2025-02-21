@@ -1,5 +1,3 @@
-// src/contexts/UserContext.jsx
-
 import { createContext, useState } from 'react';
 
 const UserContext = createContext();
@@ -37,4 +35,3 @@ function UserProvider({ children }) {
 // access to the UserContext object to know which context to access.
 // Therefore, we export it here.
 export { UserProvider, UserContext };
-
