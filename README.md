@@ -1,5 +1,5 @@
 ## 📱The GitCentral
-#### Created byMichael Anderson(Project Manager), Merley Haddis(Backend), Edward Kim(Frontend)
+#### Created by Michael Anderson(Project Manager), Merley Haddis(Backend), Edward Kim(Frontend)
 
 ## 🚀Discription
 **GitCentral** - Your home for dev-dialogue! [Click here](https://
@@ -23,9 +23,6 @@
 ### ✅ Forum & Discussion
 - **Create, edit, and delete** forum posts and comments.
 - Like posts and interact with other users.
-
-### ✅ Hot Topics
-- A dedicated **"Hot Topics"** section that highlights the most liked discussions.
 
 ### ✅ User Profiles
 - View your own **posts and forums** in your profile.
