@@ -9,10 +9,9 @@
 ## 📸Screenshots
   |   Description | Screenshot |
   |:-------------:| -----------|
-  | <h3>Landing Page</h3> | ![screenshot1]()
-  | <h3>SignUp Page</h3> | ![screenshot2]()
-  | <h3>DashBoard</h3> | ![screenshot3]()
-  | <h3>TopicBoard</h3> | ![screenshot4]()
+  | <h3>Landing Page</h3> | ![screenshot1](https://github.com/EdwardKim030391/Michael-Anderson92-GitCentral-MERN-CRUD-App-Front-End/blob/edward_frontlast/readmeImage/landing%20page.png)
+  | <h3>Profile Page</h3> | ![screenshot2](https://github.com/EdwardKim030391/Michael-Anderson92-GitCentral-MERN-CRUD-App-Front-End/blob/edward_frontlast/readmeImage/Profile.png)
+  | <h3>DashBoard</h3> | ![screenshot3](https://github.com/EdwardKim030391/Michael-Anderson92-GitCentral-MERN-CRUD-App-Front-End/blob/edward_frontlast/readmeImage/dashboard.png)
 
 
 ## 📍Features
